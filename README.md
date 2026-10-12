@@ -7,3 +7,5 @@ Tests were sorted, some of tests updated, more tests added.
 Short test descriptions and links to forum discussions can be found at [nesdev wiki](https://www.nesdev.org/wiki/Emulator_tests).
 
 Some tests may have thier own github repository, and may be outdated here.
+
+Worth mentioning [AccuracyCoin](https://github.com/100thCoin/AccuracyCoin) not added here because actively updates with new tests.
